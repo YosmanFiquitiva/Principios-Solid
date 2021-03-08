@@ -32,6 +32,8 @@ namespace PrincipioSolidD
 
 
     //Solid Ejemplo Buenas Practicas D:
+    
+    //en este principio se utilizó el patrón Grasp (Alta Cohesion,creador,Bajo Aclopamiento)
     interface Conexion
  {
      void getDatos();
