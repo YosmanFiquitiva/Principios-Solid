@@ -42,6 +42,9 @@ namespace PrincipiosSolidO
     */
 
     //Solid Ejemplo Buenas Practicas O:
+     
+    // en este principio se utilizó el patrón Grasp (Alta Cohesion,Experto,Controlador,Creador)
+     
     public abstract class Coche
     {
         public abstract int precioMedioCoche();
