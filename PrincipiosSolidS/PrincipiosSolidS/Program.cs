@@ -20,7 +20,7 @@ namespace PrincipiosSolidS
 
     //Solid Ejemplo Buenas Prcticas S:
 
-     // en este principio se utilizó el patrón Grasp (Alta Cohesion,Experto,Controlador)
+     // en este principio se utilizó el patrón Grasp  (Alta Cohesion,Experto,Controlador)
     class Coche            
     {
         public string marca;
