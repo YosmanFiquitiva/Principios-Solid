@@ -63,6 +63,7 @@ namespace PrincipioSolidL
     */
 
     //Solid Ejemplo Buenas Practicas L:
+   //en este principio se utilizó el patrón Grasp (Alta Cohesion,Experto,Controlador,Bajo Acoplamiento)
     public abstract class Coche
     {
         public abstract int precioMedioCoche();
