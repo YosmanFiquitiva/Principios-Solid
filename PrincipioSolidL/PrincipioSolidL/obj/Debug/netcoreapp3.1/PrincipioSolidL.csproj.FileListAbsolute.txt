@@ -1,0 +1,13 @@
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\bin\Debug\netcoreapp3.1\PrincipioSolidL.exe
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\bin\Debug\netcoreapp3.1\PrincipioSolidL.deps.json
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\bin\Debug\netcoreapp3.1\PrincipioSolidL.runtimeconfig.json
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\bin\Debug\netcoreapp3.1\PrincipioSolidL.runtimeconfig.dev.json
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\bin\Debug\netcoreapp3.1\PrincipioSolidL.dll
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\bin\Debug\netcoreapp3.1\PrincipioSolidL.pdb
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\obj\Debug\netcoreapp3.1\PrincipioSolidL.csprojAssemblyReference.cache
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\obj\Debug\netcoreapp3.1\PrincipioSolidL.AssemblyInfoInputs.cache
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\obj\Debug\netcoreapp3.1\PrincipioSolidL.AssemblyInfo.cs
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\obj\Debug\netcoreapp3.1\PrincipioSolidL.csproj.CoreCompileInputs.cache
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\obj\Debug\netcoreapp3.1\PrincipioSolidL.dll
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\obj\Debug\netcoreapp3.1\PrincipioSolidL.pdb
+C:\Users\LEVELS\Desktop\SOLID\Solid C#\PrincipioSolidL\PrincipioSolidL\obj\Debug\netcoreapp3.1\PrincipioSolidL.genruntimeconfig.cache
