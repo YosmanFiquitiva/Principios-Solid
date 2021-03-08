@@ -45,6 +45,7 @@ namespace PrincipioSolidI
     } */
 
     //Solid Ejemplo Buenas Practicas I:
+    //en este principio se utilizó el patrón Grasp (Alta Cohesion,creador,Bajo Aclopamiento)
 
     public interface IAve
     {
